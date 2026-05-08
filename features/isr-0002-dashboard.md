@@ -4,3 +4,7 @@
 
 - Add account summary metric cards.
 - Track daily active session count.
+
+## Config
+
+- Metric cards are configured in `config/dashboard-metrics.json`.

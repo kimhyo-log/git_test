@@ -1,0 +1,8 @@
+{
+  "cards": [
+    "account_summary",
+    "daily_active_sessions",
+    "conversion_rate"
+  ],
+  "refreshIntervalSeconds": 60
+}
