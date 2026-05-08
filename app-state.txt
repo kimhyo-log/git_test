@@ -1,3 +1,4 @@
 environment=DEV
-version=0.3.0-isr-0003
-features=login-refresh,notification-preferences
+version=0.4.0-isr-0004
+features=login-refresh,dashboard-metrics,notification-preferences,audit-export
+
