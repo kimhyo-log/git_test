@@ -8,3 +8,8 @@
 ## Config
 
 - Export settings are configured in `config/audit-export.json`.
+
+## QA Checklist
+
+- CSV and JSON exports include headers where applicable.
+- Export row limits match the configured maximum.
