@@ -1,0 +1,8 @@
+{
+  "formats": [
+    "csv",
+    "json"
+  ],
+  "includeHeaders": true,
+  "maxRows": 5000
+}
