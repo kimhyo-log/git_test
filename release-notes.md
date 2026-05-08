@@ -11,3 +11,7 @@
 ## ISR-0002
 
 - Dashboard metrics prepared for DEV validation.
+
+## ISR-0003
+
+- Notification preferences prepared for DEV validation.
