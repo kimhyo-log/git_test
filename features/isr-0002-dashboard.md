@@ -8,3 +8,8 @@
 ## Config
 
 - Metric cards are configured in `config/dashboard-metrics.json`.
+
+## QA Checklist
+
+- Metric card ordering matches product requirements.
+- Refresh interval does not exceed one minute.
