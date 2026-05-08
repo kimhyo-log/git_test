@@ -1,3 +1,3 @@
 environment=DEV
-version=0.1.0-isr-0001
-features=login-refresh
+version=0.2.0-isr-0002
+features=login-refresh,dashboard-metrics
