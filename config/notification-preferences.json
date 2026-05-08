@@ -1,0 +1,8 @@
+{
+  "channels": {
+    "email": true,
+    "sms": false,
+    "push": false
+  },
+  "auditLog": true
+}
