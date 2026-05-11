@@ -1,0 +1,5 @@
+{
+  "activityRetentionDays": 365,
+  "auditRetentionDays": 2555,
+  "archiveBeforeDelete": true
+}
