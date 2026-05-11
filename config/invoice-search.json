@@ -1,0 +1,9 @@
+{
+  "searchFields": [
+    "invoiceNumber",
+    "customerName",
+    "issueDate"
+  ],
+  "defaultSort": "issueDate:desc",
+  "pageSize": 25
+}
