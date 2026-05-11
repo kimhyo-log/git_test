@@ -1,0 +1,8 @@
+{
+  "cadences": [
+    "daily",
+    "weekly"
+  ],
+  "maxRecipients": 20,
+  "timezone": "Asia/Seoul"
+}
