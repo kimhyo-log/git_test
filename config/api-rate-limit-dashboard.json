@@ -1,0 +1,5 @@
+{
+  "warningThresholdPercent": 80,
+  "criticalThresholdPercent": 95,
+  "refreshIntervalSeconds": 30
+}
