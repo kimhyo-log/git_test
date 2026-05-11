@@ -1,0 +1,8 @@
+{
+  "allowedFormats": [
+    "png",
+    "jpg"
+  ],
+  "maxSizeMb": 5,
+  "storagePath": "profiles/avatars"
+}
